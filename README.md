@@ -1,4 +1,4 @@
 #Software eng
 
 My first readm
-This repo contains all my projects
+This my repository containing all my projcts
